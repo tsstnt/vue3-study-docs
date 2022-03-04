@@ -1,0 +1,1 @@
+import{o as a,a as r,F as t,b as e,d as s}from"./app.78fde289.js";import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";const c={},n=e("h4",{id:"gra",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#gra","aria-hidden":"true"},"#"),s(" gra")],-1),d=e("p",null,"sdsadas",-1);function _(i,l){return a(),r(t,null,[n,d],64)}var m=o(c,[["render",_]]);export{m as default};
